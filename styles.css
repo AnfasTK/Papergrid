@@ -1,0 +1,35 @@
+.head-frst:hover{
+    font-size: 103%;
+    background-color: rgb(34, 34, 34);
+    cursor: pointer;
+}
+.logo{
+    width: 110px;
+    height: 25px;
+    margin-left: 65px;
+}
+.contact-info{
+    color: rgb(146, 146, 146);
+    
+}
+.info:hover{
+    color: white;
+    cursor: pointer;
+}
+.footer-infor{
+    display: flex;
+    font-size: small;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-decoration: none;
+    list-style-type: none;
+    gap: 15px;
+}
+.foot-info{
+    color: gray;
+    text-decoration: none;
+}
+.foot-info:hover{
+    color: white;
+    text-decoration: underline;
+}
